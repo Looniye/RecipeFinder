@@ -17,7 +17,7 @@ RecipeFinder - это iOS-приложение, которое поможет в
 
 - MVP (Model-View-Presenter).
 
-
+## Скриншоты
 
 <img src="https://github.com/Looniye/RecipeFinder/assets/40362717/e34e9e10-6eea-4b7f-b023-5cd563aff889" width="300">
 
