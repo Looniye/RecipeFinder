@@ -19,5 +19,5 @@ RecipeFinder - это iOS-приложение, которое поможет в
 
 
 
-![Simulator Screenshot - iPhone 14 Pro - 2023-06-16 at 02 36 11](https://github.com/Looniye/RecipeFinder/assets/40362717/e34e9e10-6eea-4b7f-b023-5cd563aff889)
+<img src="https://github.com/Looniye/RecipeFinder/assets/40362717/e34e9e10-6eea-4b7f-b023-5cd563aff889" width="300">
 
